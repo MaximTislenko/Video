@@ -1,0 +1,4 @@
+opencv-python==4.5.4.60
+pytz==2022.1
+APScheduler==3.8.1
+ffmpeg-python==0.2.0
